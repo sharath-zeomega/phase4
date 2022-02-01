@@ -1,0 +1,23 @@
+Sharath K T
+Software Trainee Engineer 
+Bangalore
+
+
+Angular application on AWS EC2 instance using Docker
+
+
+1 . First we have to create angular app 
+        I created the angular app 
+2 . After that we have to compile and run the angular app using ng serve command
+       Then we have to give ng build then dest folder will be created
+3 . We have to dockerise the angular app then we have to create the docker image and then we have to push the files
+       into the docker
+4 . Then we have to signup for the aws ec2 then we have to create the new instances then we have open instance and 
+      then we have to paste the dest folder into the local drive c of the instance
+5 . Finally we get the IP address from the instance that we can run on the browser. we can run the ip address any where
+
+
+
+
+
+ 
